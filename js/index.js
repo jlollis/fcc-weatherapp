@@ -28,6 +28,11 @@ $(document).ready(function () {
   })
 })
 
+function newFunction() {
+  var currentTempInCelsius;
+  return currentTempInCelsius;
+}
+
 function getWeather (lat, lon) {
   var urlString = api + lat + '&' + lon
   $.ajax({
