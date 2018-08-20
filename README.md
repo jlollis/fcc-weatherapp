@@ -22,4 +22,4 @@ When I first completed the project last December, the icons were broken in the O
 
 This demonstrated one of the potential drawbacks of relying on APIs. When they break or change, the provider of that API may have no way to contact you, or no incentive to do so. In that case, you may not even be aware that there is an issue. This would be an even bigger problem with more complicated projects. You would definitely need to build error handling and notification into your app to stay on top of any unforseen changes.
 
-Oddly enough, these seeing these issues unfold, while mildly frustrating, also made this one of the more interesting FCC challenges.
+Oddly enough, seeing these issues unfold, while mildly frustrating, also made this one of the more interesting FCC challenges.
