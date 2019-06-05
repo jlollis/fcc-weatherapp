@@ -3,7 +3,7 @@ Weather App
 
 This is a weather app written in javascript, created as a project for [Free Code Camp](https://www.freecodecamp.org/) in December 2017.
 
-You can view it live here: [Weather App](https://codepen.io/jlollis/pen/MOLPqw).
+You can view it live here: [Weather App](https://jlollis.github.io/fcc-weatherapp/).
 
 
 ![screenshot](https://github.com/jlollis/fcc-weatherapp/blob/master/screenshot.png)
